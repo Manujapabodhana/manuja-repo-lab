@@ -4,7 +4,12 @@
     "entry": "./plugins/sample-plugin/plugin.js"
   },
   {
+<<<<<<< HEAD
     "name": "conflit Plugin",
     "entry": "./plugins/conflit-plugin/plugin.js"
+=======
+    "name": "manuja Plugin",
+    "entry": "./plugins/manuja-plugin/plugin.js"
+>>>>>>> new-branch
   }
 ]
